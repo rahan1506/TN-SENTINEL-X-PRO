@@ -540,15 +540,15 @@ Passionate about:
 
 **GitHub**
 
-https://github.com/YOUR_GITHUB_USERNAME
+https://github.com/rahan1506
 
 **LinkedIn**
 
-https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
+https://linkedin.com/in/rahans
 
 **Email**
 
-your.email@example.com
+rahan1510s@gmail.com
 
 ---
 
