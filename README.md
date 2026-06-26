@@ -84,6 +84,150 @@ The primary objective of this project is to build a professional Business Intell
 
 ---
 
+# 📸 Project Showcase
+
+
+## 📊 Executive Dashboard
+
+The Executive Dashboard provides a statewide overview of crime statistics through interactive KPIs, charts, and slicers.
+
+<p align="center">
+<img src="screenshots/DASHBOARD.png" width="100%">
+</p>
+
+### Dashboard Highlights
+
+- 📈 Total Crimes
+- ⚠ Highest Risk District
+- 🟢 Safest District
+- 📊 Average Risk Score
+- 🚨 Critical District Analysis
+- 📉 Crime Distribution
+- 🎯 Operational Priority Distribution
+- 🏆 Top Crime Contributing Districts
+- 🎛 Interactive Slicers
+
+---
+
+## 🏛 District Intelligence Dashboard
+
+District Intelligence enables users to perform district-level analysis using a dynamic district selector.
+
+<p align="center">
+<img src="screenshots/district_intelligence.png" width="100%">
+</p>
+
+### Intelligence Features
+
+- District Profile
+- Crime Profile
+- Risk Assessment
+- Public Safety Analysis
+- Severity Analysis
+- District Comparison
+- Recommendation Engine
+- Dynamic KPI Cards
+- VBA-based Color Automation
+
+---
+
+## 📄 Executive Insights Report
+
+The Executive Report summarizes key findings and converts analytical results into strategic recommendations for decision-makers.
+
+<p align="center">
+<img src="screenshots/INSIGHT_REPORT.png" width="100%">
+</p>
+
+### Report Includes
+
+- Executive Summary
+- Key Findings
+- Strategic Insights
+- Strategic Recommendations
+- Project Conclusion
+
+---
+
+## 📋 Analytical Data Model
+
+A custom analytical model was developed to transform raw crime statistics into meaningful business metrics.
+
+<p align="center">
+<img src="screenshots/CLEANED_DATA.png" width="100%">
+</p>
+
+### Calculated Metrics
+
+| Metric | Purpose |
+|---------|---------|
+| Risk Score | Overall district risk assessment |
+| Risk Category | Classifies districts into Critical, High, Moderate and Low |
+| District Rank | Statewide district ranking |
+| Women Safety Ratio | Women crime relative to total crime |
+| Murder Rate | Murder cases relative to total crime |
+| Accident Rate | Road accident contribution |
+| Severity Index | Combined crime severity indicator |
+| Public Safety Index | Overall district safety measurement |
+| Crime Contribution % | District contribution to statewide crime |
+| Priority Level | Administrative priority classification |
+
+---
+
+## 🔄 Power Query
+
+Power Query was used for data cleaning, transformation, merging datasets, and preparing the analytical model.
+
+<p align="center">
+<img src="screenshots/power_query.png" width="100%">
+</p>
+
+### Data Preparation Steps
+
+- Import Raw Dataset
+- Merge Queries
+- Expand Tables
+- Standardize Data Types
+- Clean Missing Values
+- Build Final Analytical Table
+
+---
+
+## 📊 Pivot Analysis
+
+Pivot Tables serve as the analytical engine behind the dashboards.
+
+<p align="center">
+<img src="screenshots/PIVOT_TABLES.png" width="100%">
+</p>
+
+The Pivot Analysis sheet enables:
+
+- Top Risk District Analysis
+- Category Distribution
+- Crime Contribution Ranking
+- Women Crime Analysis
+- Severity Index Ranking
+
+---
+
+## ⚙ VBA Automation
+
+Custom VBA was developed to improve interactivity and user experience.
+
+<p align="center">
+<img src="screenshots/vba_code.png" width="100%">
+</p>
+
+### VBA Features
+
+- Dashboard Navigation
+- District Navigation
+- Dynamic KPI Color Updates
+- Interactive Workbook Controls
+
+---
+
 # 🚀 Key Features
 
 ### 📂 Data Engineering
@@ -280,149 +424,7 @@ TN-SENTINEL-X-PRO
 
 ---
 
-# 📸 Project Showcase
 
-
-## 📊 Executive Dashboard
-
-The Executive Dashboard provides a statewide overview of crime statistics through interactive KPIs, charts, and slicers.
-
-<p align="center">
-<img src="screenshots/DASHBOARD.png" width="100%">
-</p>
-
-### Dashboard Highlights
-
-- 📈 Total Crimes
-- ⚠ Highest Risk District
-- 🟢 Safest District
-- 📊 Average Risk Score
-- 🚨 Critical District Analysis
-- 📉 Crime Distribution
-- 🎯 Operational Priority Distribution
-- 🏆 Top Crime Contributing Districts
-- 🎛 Interactive Slicers
-
----
-
-## 🏛 District Intelligence Dashboard
-
-District Intelligence enables users to perform district-level analysis using a dynamic district selector.
-
-<p align="center">
-<img src="screenshots/district_intelligence.png" width="100%">
-</p>
-
-### Intelligence Features
-
-- District Profile
-- Crime Profile
-- Risk Assessment
-- Public Safety Analysis
-- Severity Analysis
-- District Comparison
-- Recommendation Engine
-- Dynamic KPI Cards
-- VBA-based Color Automation
-
----
-
-## 📄 Executive Insights Report
-
-The Executive Report summarizes key findings and converts analytical results into strategic recommendations for decision-makers.
-
-<p align="center">
-<img src="screenshots/INSIGHT_REPORT.png" width="100%">
-</p>
-
-### Report Includes
-
-- Executive Summary
-- Key Findings
-- Strategic Insights
-- Strategic Recommendations
-- Project Conclusion
-
----
-
-## 📋 Analytical Data Model
-
-A custom analytical model was developed to transform raw crime statistics into meaningful business metrics.
-
-<p align="center">
-<img src="screenshots/CLEANED_DATA.png" width="100%">
-</p>
-
-### Calculated Metrics
-
-| Metric | Purpose |
-|---------|---------|
-| Risk Score | Overall district risk assessment |
-| Risk Category | Classifies districts into Critical, High, Moderate and Low |
-| District Rank | Statewide district ranking |
-| Women Safety Ratio | Women crime relative to total crime |
-| Murder Rate | Murder cases relative to total crime |
-| Accident Rate | Road accident contribution |
-| Severity Index | Combined crime severity indicator |
-| Public Safety Index | Overall district safety measurement |
-| Crime Contribution % | District contribution to statewide crime |
-| Priority Level | Administrative priority classification |
-
----
-
-## 🔄 Power Query
-
-Power Query was used for data cleaning, transformation, merging datasets, and preparing the analytical model.
-
-<p align="center">
-<img src="screenshots/power_query.png" width="100%">
-</p>
-
-### Data Preparation Steps
-
-- Import Raw Dataset
-- Merge Queries
-- Expand Tables
-- Standardize Data Types
-- Clean Missing Values
-- Build Final Analytical Table
-
----
-
-## 📊 Pivot Analysis
-
-Pivot Tables serve as the analytical engine behind the dashboards.
-
-<p align="center">
-<img src="screenshots/PIVOT_TABLES.png" width="100%">
-</p>
-
-The Pivot Analysis sheet enables:
-
-- Top Risk District Analysis
-- Category Distribution
-- Crime Contribution Ranking
-- Women Crime Analysis
-- Severity Index Ranking
-
----
-
-## ⚙ VBA Automation
-
-Custom VBA was developed to improve interactivity and user experience.
-
-<p align="center">
-<img src="screenshots/vba_code.png" width="100%">
-</p>
-
-### VBA Features
-
-- Dashboard Navigation
-- District Navigation
-- Dynamic KPI Color Updates
-- Interactive Workbook Controls
-
----
 
 # 📚 Documentation
 
