@@ -407,6 +407,65 @@ TN-SENTINEL-X-PRO
 
 ---
 
+# ⚠️ Important - First Time Setup
+
+> **This project uses VBA macros for dashboard navigation, dynamic KPI updates, and interactive features.**
+>
+> Due to Microsoft's security policy, Office blocks macros in files downloaded from the internet (including GitHub). This is a standard security feature and **does not indicate any issue with the project.**
+
+## 📥 First-Time Setup (Required Only Once)
+
+### Step 1
+Download the repository and extract it if you downloaded the ZIP version.
+
+### Step 2
+Before opening the workbook:
+
+- Right-click **TN_SENTINEL_X_PRO.xlsm**
+- Select **Properties**
+
+### Step 3
+At the bottom of the **General** tab:
+
+✅ Check **Unblock**
+
+Click:
+
+**Apply → OK**
+
+### Step 4
+Now open the workbook in **Microsoft Excel**.
+
+If prompted:
+
+- Click **Enable Editing**
+- Click **Enable Content / Enable Macros**
+
+The workbook will now function normally with:
+
+- ✅ Dashboard Navigation
+- ✅ Interactive Buttons
+- ✅ Dynamic KPI Cards
+- ✅ VBA Automation
+- ✅ District Intelligence Dashboard
+- ✅ Executive Dashboard
+
+---
+
+## 🔒 Why is this required?
+
+Microsoft automatically blocks macros in Office files downloaded from the internet to protect users from potentially malicious files.
+
+Since this workbook contains legitimate VBA automation, Windows may mark it as an **untrusted file** until it is manually unblocked.
+
+This is a **standard Microsoft Office security feature** and applies to most macro-enabled Excel projects shared through GitHub, OneDrive, email, or other online sources.
+
+---
+
+## 💡 Recommended
+
+For the best experience, move the workbook to one of your **Trusted Locations** in Microsoft Excel after downloading. This prevents future security prompts and allows all interactive features to run seamlessly.
+
 # 🛠 Technologies Used
 
 | Category | Technology |
