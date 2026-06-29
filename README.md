@@ -583,7 +583,7 @@ documentation
 
 # 👨‍💻 Author
 
-## Girubakharan V
+## Rahan S
 
 **B.Tech – Artificial Intelligence & Data Science**
 
